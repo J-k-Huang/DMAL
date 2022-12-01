@@ -1,0 +1,8 @@
+# Default ignored files
+/shelf/
+/workspace.xml
+# Datasource local storage ignored files
+/../../../../../../../:\code\TransferLearning-dwl-cvpr2021-master001\TransferLearning-dwl-cvpr2021-master\dwl-cvpr2021\Image\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/
