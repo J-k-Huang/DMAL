@@ -13,5 +13,14 @@
 * DomainNet consists of about 0.6 million images with 345 classes. DomainNet dataset can be found [here](http://ai.bu.edu/M3SDA/)  
 ## Demo  
 ## Citation  
+```
+@ARTICLE{9893737,
+  author={Huang, Jingke and Xiao, Ni and Zhang, Lei},
+  journal={IEEE Transactions on Neural Networks and Learning Systems}, 
+  title={Balancing Transferability and Discriminability for Unsupervised Domain Adaptation}, 
+  year={2022},
+  pages={1-8},
+  doi={10.1109/TNNLS.2022.3201623}}  
+```
 ## Contact  
 If you have any problem about our code, feel free to contact jkhuang@cqu.edu.cn
