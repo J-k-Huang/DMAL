@@ -4,3 +4,10 @@
 * pytorch  1.0.0  
 ## Framework
 ![image](https://github.com/J-k-Huang/DMAL/blob/main/framework.png)
+## Benchmark
+* Digits  
+* Office-31  
+* Office-Home  
+* ImageCLEF-DA  
+* VisDA-2017  
+* DomainNet
