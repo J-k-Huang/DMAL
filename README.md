@@ -8,7 +8,7 @@
 * Digits  
 * Office-31  
 * Office-Home  
-Office-Home contains 15 500 images of 65 classes from four domains: Ar, Cl, Pr, and Rw. Office-Home dataset can be found [here] (https://www.hemanthdv.org/officeHomeDataset.html)
+Office-Home contains 15 500 images of 65 classes from four domains: Ar, Cl, Pr, and Rw. Office-Home dataset can be found [here](https://www.hemanthdv.org/officeHomeDataset.html)
 * ImageCLEF-DA  
 * VisDA-2017  
 * DomainNet
